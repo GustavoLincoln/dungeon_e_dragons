@@ -1,3 +1,6 @@
+package personagem
+
+import StrategyDistribuicaoPontos
 import habilidades.AtributosPersonagens
 import raca.Raca
 
